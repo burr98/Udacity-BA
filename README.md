@@ -1,2 +1,2 @@
 # Udacity-BA
-This repo contains my solution approach to my Udacity Business Nanodegree Course
+This repo contains my solution approach to all the Projects in my Udacity Business Nanodegree Course
