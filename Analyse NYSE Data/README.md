@@ -28,7 +28,7 @@ The main goal of this project is for you to demonstrate your ability to:
 This project is made of two parts. For each part, you will be using the same dataset, which you can find in the Supporting Materials as Projectdata NYSE.csv at the bottom of this page. If you are using Google Spreadsheets, you can access the link to the data here(https://docs.google.com/spreadsheets/d/1q5invOLdh4wejc_L0p6LR6H7A4DCktWMdmcTNSm5BN0/copy):
 
 
-1. Part One:
+1. Part One: 
 The first part of the project is a set of 8 quiz questions, which you will find in the following 2 pages. These 'quizzes' are aimed to help you get familiar with the dataset and test that you have mastered the core concepts in the previous lessons. Correctly answering each of the quiz questions will assure you are on the right track before you dive into the second part of the project. This part of the project will not be submitted for review.
 2. Part Two:
 The second part of your project is the portion you will turn in for review. You will conduct your own data analysis and create a presentation file to share your findings. You will also create an Excel workbook that contains your calculations of the summary statistics, dashboard, and forecast scenarios. The details of this submission are provided on the last page of this lesson. Pay attention to the details of the Rubric to assure you have all deliverables.
